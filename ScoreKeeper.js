@@ -53,3 +53,4 @@ winningScoreDisplay.textContent = this.value;
 winningScore = Number(this.value);
 reset();
 });
+
